@@ -1,8 +1,8 @@
-#webpack-standar
+# webpack-standar
 
 Este es el proyecto inicial para aplicaciones usando webpack
 
-##notas:
+## notas:
 
 Recuerden reconstruir los modulos de node:
 ```
